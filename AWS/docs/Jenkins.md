@@ -26,4 +26,3 @@ stage('Check Jenkins Status') {
 }
 ````
 
-Let me know if you want to automate this check in your Node.js or Groovy code!
